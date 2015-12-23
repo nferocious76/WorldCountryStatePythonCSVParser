@@ -1,4 +1,4 @@
-![WorldCountryStatePythonCSVParser](http://i.imgur.com/9Mpg638.jpg)
+![WorldCountryStatePythonCSVParser](http://www.mapresources.com/media/catalog/product/m/c/mc-eur-072945_comp_1.jpg)
 
 ## WorldCountryStatePythonCSVParser
 
